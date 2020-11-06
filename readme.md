@@ -1,7 +1,5 @@
 ## Task description:
 
-Kindly complete the task and send it to me at the earliest.
-
 Edit email template from front end
 1.  Setup Angular and nodejs stack with mongodb
 2. Create an email table in mongodb with following fields - id, companyid, email template name, template content. We will have templates for name "FORGOT_PASSWORD" and "WELCOME"
